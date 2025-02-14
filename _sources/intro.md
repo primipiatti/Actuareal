@@ -1,4 +1,4 @@
-# Actuarial, Finance, Risk and Other Reflectionns
+# Actuarial, Finance, Risk and Other Reflections
 
 ## welcome to my blog! 
 
