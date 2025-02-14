@@ -1,11 +1,14 @@
-# Welcome to your Jupyter Actuarial and "Other" Book
+# Actuarial, Finance, Risk and Other Reflectionns
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+## welcome to my blog! 
 
-Check out the content pages bundled with this sample book to see more.
+### What is the purpose of these pages?
+To develop applicable, structured concepts (sometimes in the form of Programs!) built around problem solving in actuarial, financial and other domains. 
+
+#### Target Audience:
+includes actuarial, finance, statistics and data science students, hobbyists and enthusiasts and the curious reader. 
+
+Click through to any subject to begin following along!:
 
 ```{tableofcontents}
 ```
