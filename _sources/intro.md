@@ -1,8 +1,8 @@
-# Actuarial, Finance, Risk and Other Reflections
+# Actuarial, Finance, Risk and Other Reflections. (p patel)
 
-## welcome to my blog! 
+## welcome! 
 
-### What is the purpose of these pages?
+### Purpose:
 To develop applicable, structured concepts (sometimes in the form of Programs!) built around problem solving in actuarial, financial and other domains. 
 
 #### Target Audience:
